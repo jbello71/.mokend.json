@@ -1,0 +1,19 @@
+{
+  "posts": [
+  {
+    "title": "prueba 1",
+    "image": "url 1"
+  },
+  {
+    "title": "Prueba 2",
+    "image": "url 2"    
+  },
+  {
+    "title": "prueba 3",
+    "image": "url 3"
+  }   
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
